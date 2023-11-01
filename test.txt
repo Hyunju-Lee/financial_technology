@@ -2,3 +2,5 @@ my git test
 
 file:///F:/Git/mingw64/share/doc/git-doc/git-config.html
 에 git-config 옵션들을 볼 수 있다.
+
+git config --global --add push.autoSetupRemote true
